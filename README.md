@@ -15,5 +15,11 @@ Java implementation of Bloom Filter
 ### Optimal number of bits required(m):
 <img width="657" alt="image" src="https://github.com/sy117/bloom-filter-impl/assets/26311536/66807470-06aa-4fa8-ab8c-4d5011a679df">
 
+### Correlation between Size of Bloom Filter and False Positive Rate:
+<img width="622" alt="image" src="https://github.com/sy117/bloom-filter-impl/assets/26311536/09a394af-87f8-496f-a27b-0a5118e2a4ff">
+
+### Correlation between Num of Hash Functions and False Positive Rate:
+<img width="568" alt="image" src="https://github.com/sy117/bloom-filter-impl/assets/26311536/401bab13-f784-47bc-b3ce-58bf1ab1e57a">
+
   
 
