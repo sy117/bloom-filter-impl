@@ -3,6 +3,7 @@ Java implementation of Bloom Filter
 
 ## Bloom Filter:
 - Bloom filter is a probabilistic data structure which is used to find association of a member in a set.
+- Bloom filter is space optimized because it uses bits(after hasing key) to store a key in a set.
 - If Bloom filter return FALSE for association of a member in a set,that means member is not part of that set. True positive rate of bloom filter is 1.
 - If Bloom filter return TRUE for association of a member in a set, that means member might be or might not be part of that set. False positive rate of bloom filter is greater than 0.
 - The false positive rate depends on multiple factors like type of hash function, number of hash function, no of insertions etc..
