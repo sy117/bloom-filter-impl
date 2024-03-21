@@ -1,5 +1,5 @@
 # bloom-filter-impl
-Java implementation of Bloom Filter
+Implementation of Bloom Filter in Java
 
 ## Bloom Filter:
 - Bloom filter is a probabilistic data structure which is used to find association of a member in a set.
